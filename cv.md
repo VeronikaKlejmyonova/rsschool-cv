@@ -1,21 +1,25 @@
-Header
+# **<span style="color:#8f754f"> Veronika Kleimenova</span>**
 
 
-Personal Information
+
+## ***<span style="color:#8f754f">Personal Information</span>***
 
 
-Skills
+
+## ***<span style="color:#8f754f">Job Objective</span>***
 
 
-Code Examples
+## ***<span style="color:#8f754f">Skills</span>***
+
+
+## ***<span style="color:#8f754f">Code Examples</span>***
 ```
 
 
 
 
 ```
+## ***<span style="color:#8f754f">Professional Experience</span>***
 
-Professional Experience
 
-
-Education
+## ***<span style="color:#8f754f">Education</span>***
