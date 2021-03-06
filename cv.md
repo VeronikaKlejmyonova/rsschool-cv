@@ -1,13 +1,11 @@
 # **<span style="color:#8f754f"> Veronika Kleimenova</span>**
-***
 ## ***<span style="color:#8f754f">PERSONAL INFORMATION</span>***
-**<span style="color:#385f71"> Address: Perm kray, 618120 
-Tel. mobile: +7 952-647-56-17
-Email: veronika.klejmyonova@gmail.com</span>**
-***
+**<span style="color:#385f71">Address: Perm kray, 618120</span>**
+**<span style="color:#385f71">Tel. mobile: +7 952-647-56-17</span>**
+**<span style="color:#385f71">Email: veronika.klejmyonova@gmail.com</span>**
+
 ## ***<span style="color:#8f754f">JOB OBJECTIVE</span>***
 
-***
 ## ***<span style="color:#8f754f">SKILLS</span>***
 **<span style="color:#385f71">Technological Skills:</span>**
 * Languages: HTML+CSS, JavaScript(JS);
@@ -29,7 +27,6 @@ Email: veronika.klejmyonova@gmail.com</span>**
 
 **<span style="color:#385f71">Languages:</span>**
 * Russian - native; English - basic knowledge.
-***
 
 ## ***<span style="color:#8f754f">CODE EXAMPLES</span>***
 ```
@@ -46,9 +43,7 @@ Email: veronika.klejmyonova@gmail.com</span>**
 
 
 ```
-***
 ## ***<span style="color:#8f754f">WORK EXPERIENCE</span>***
-***
 
 
 ## ***<span style="color:#8f754f">EDUCATION</span>***
